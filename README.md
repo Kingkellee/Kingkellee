@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Kingkellee/Kingkellee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
 
-Here are some ideas to get you started:
+- :eyes: I am Kelly, i currently work as a Technical Support at NIMCOS
+- :computer: I am Full Stack PERN, python developer, DevOps Engineer
+- 🌱 I’m currently learning DevOps & AWS Cloud
+- 💬 Ask me about Web Development, Cloud and DevOps
+- 📫 Follow me on: [1.1]: http://i.imgur.com/tXSoThF.png (Twitter)
+                    [2.1]: http://i.imgur.com/P3YfQoD.png (Facebook)
+                    [3.1]: https://imgur.com/OQUXwNp (Linkedin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him/His
+
+[1]: http://www.twitter.com/IamKingKellee
+[2]: http://www.facebook.com/soliyke
+[3]: https://www.linkedin.com/in/kelly-iyogun-255365118/
