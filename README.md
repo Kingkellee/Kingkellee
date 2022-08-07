@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ### About Me 🧝‍♂️
-- 👀 I am Kelly, i currently work as a Technical Support at NIMCOS
-- 💻 I am Full Stack PERN, python developer, DevOps Engineer
+- 👀 I am Kelly, I currently work as a Technical Support at NIMCOS
+- 💻 I am a Full Stack PERN, python developer, DevOps Engineer
 - 🌱 I’m currently learning DevOps & AWS Cloud
 - 💬 Ask me about Web Development, Cloud and DevOps
 - 😄 Pronouns: He/Him/His
