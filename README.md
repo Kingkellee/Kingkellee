@@ -14,5 +14,4 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/soliyke)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/IamKingKellee)   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-iyogun-255365118/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/zwv131)
 
 
-### Vistor Count
-![Visitor Count](https://profile-counter.glitch.me/Kingkellee/count.svg)
+### Number of Persons Visited :electron: ![Visitor Count](https://profile-counter.glitch.me/Kingkellee/count.svg)
