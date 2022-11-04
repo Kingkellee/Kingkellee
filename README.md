@@ -15,3 +15,4 @@
 
 
 ### Number of Persons Visited :electron: ![Visitor Count](https://profile-counter.glitch.me/Kingkellee/count.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
