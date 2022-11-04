@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: Kingkellee/metrics@latest
+      - uses: kingkellee/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
