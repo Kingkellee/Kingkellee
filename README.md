@@ -1,3 +1,5 @@
+![MasterHead](https://scontent.fabv3-2.fna.fbcdn.net/v/t1.6435-9/121327996_10218804301281332_6896516766216038162_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEl8k_Ceulil6DM_BdXvg7qyf8ExJ7WyRfJ_wTEntbJF4Si7YOv_tUahqDVNwR_xpQ&_nc_ohc=NcC2kHuEku4AX_LjiHy&_nc_ht=scontent.fabv3-2.fna&oh=00_AfBIN93zQTgfw-odx5iim9y1PrJ4gqU7HFizrodwq6Z1Hg&oe=638D0770)
+
 <h1 align="center">Hi 👋, I'm Kelly Iyogun</h1>
 <h3 align="center">A passionate DevOps Engineer, I am dedicated to optimization, understands the melding of operations and development to quick delivery of quality code/software to customers. Has hands-on experience medling with AWS Cloud, monitoring processes as well as DevOps development on Windows and Linux systems.</h3>
 
@@ -29,7 +31,7 @@
 <a href="https://dev.to/kingkellee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kingkellee" height="30" width="40" /></a>
 <a href="https://twitter.com/iamkingkellee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamkingkellee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kelly-iyogun-255365118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelly-iyogun-255365118" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:14525288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:14525288" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14525288/kingkellee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:14525288" height="30" width="40" /></a>
 <a href="https://fb.com/soliyke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="soliyke" height="30" width="40" /></a>
 <a href="https://instagram.com/iamkingkelleee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamkingkelleee" height="30" width="40" /></a>
 </p>
