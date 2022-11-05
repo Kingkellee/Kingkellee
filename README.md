@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelly Iyogun</h1>
-<h3 align="center">A passionate DevOps Engineer, I am dedicated to optimization,understands the melding of operations and development to quick delivery of quality code/software to customers. Has hands-on experience medling with AWS Cloud, monitoring processes as well as DevOps development on Windows and Linux systems.</h3>
+<h3 align="center">A passionate DevOps Engineer, I am dedicated to optimization, understands the melding of operations and development to quick delivery of quality code/software to customers. Has hands-on experience medling with AWS Cloud, monitoring processes as well as DevOps development on Windows and Linux systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingkellee&label=Profile%20views&color=0e75b6&style=flat" alt="kingkellee" /> </p>
 
