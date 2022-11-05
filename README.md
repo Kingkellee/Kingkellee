@@ -1,6 +1,5 @@
-![MasterHead](https://scontent.fabv3-2.fna.fbcdn.net/v/t1.6435-9/121327996_10218804301281332_6896516766216038162_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEl8k_Ceulil6DM_BdXvg7qyf8ExJ7WyRfJ_wTEntbJF4Si7YOv_tUahqDVNwR_xpQ&_nc_ohc=NcC2kHuEku4AX_LjiHy&_nc_ht=scontent.fabv3-2.fna&oh=00_AfBIN93zQTgfw-odx5iim9y1PrJ4gqU7HFizrodwq6Z1Hg&oe=638D0770)
 
-<img src="https://scontent.fabv3-2.fna.fbcdn.net/v/t1.6435-9/121327996_10218804301281332_6896516766216038162_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEl8k_Ceulil6DM_BdXvg7qyf8ExJ7WyRfJ_wTEntbJF4Si7YOv_tUahqDVNwR_xpQ&_nc_ohc=NcC2kHuEku4AX_LjiHy&_nc_ht=scontent.fabv3-2.fna&oh=00_AfBIN93zQTgfw-odx5iim9y1PrJ4gqU7HFizrodwq6Z1Hg&oe=638D0770" alt="masterhead" width="1000"/>
+<img src="https://scontent.fabv3-2.fna.fbcdn.net/v/t1.6435-9/121327996_10218804301281332_6896516766216038162_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEl8k_Ceulil6DM_BdXvg7qyf8ExJ7WyRfJ_wTEntbJF4Si7YOv_tUahqDVNwR_xpQ&_nc_ohc=NcC2kHuEku4AX_LjiHy&_nc_ht=scontent.fabv3-2.fna&oh=00_AfBIN93zQTgfw-odx5iim9y1PrJ4gqU7HFizrodwq6Z1Hg&oe=638D0770" alt="masterhead" width="1240"/>
 
 <h1 align="center">Hi 👋, I'm Kelly Iyogun</h1>
 <h3 align="center">A passionate DevOps Engineer, I am dedicated to optimization, understands the melding of operations and development to quick delivery of quality code/software to customers. Has hands-on experience medling with AWS Cloud, monitoring processes as well as DevOps development on Windows and Linux systems.</h3>
